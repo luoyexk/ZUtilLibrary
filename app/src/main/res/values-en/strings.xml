@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZUtil</string>
+    <string name="take_photo">tack photo</string>
+    <string name="never_ask_camera">你已经拒绝授权使用相机，并不再提醒</string>
+</resources>
